@@ -1,0 +1,83 @@
+Third-Party Software Notices
+============================
+
+This project makes use of the following open-source libraries:
+
+1. pandas
+   License: BSD 3-Clause License
+   Copyright (c) 2008-2026, pandas development team
+   All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions are met:
+   - Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+   - Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+   - Neither the name of the pandas development team nor the names of its
+     contributors may be used to endorse or promote products derived from this
+     software without specific prior written permission.
+
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+   AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED.
+
+2. numpy
+   License: BSD License
+   Copyright (c) 2005-2026, NumPy Developers
+   All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions are met:
+   - Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+   - Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+   AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED.
+
+3. powerlaw
+   License: MIT License
+   Copyright (c) 2014 Jeff Alstott
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+4. openpyxl
+   License: MIT License
+   Copyright (c) 2010-2026, openpyxl contributors
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+5. tkinter
+   License: Python Software Foundation License
+   Copyright (c) Python Software Foundation
+   All rights reserved.
+
+   Python is distributed under the Python Software Foundation License.
+   Full text available at: https://docs.python.org/3/license.html
+Notes:
+- Each library is distributed under its respective license terms.
+- Copies of the full license texts can be found in the official repositories of these projects.
+- This project does not modify the original libraries; they are used as dependencies.
