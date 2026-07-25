@@ -15,7 +15,7 @@ DISTRIBUTIONS = [
 
 def create_main_window():
     root = tk.Tk()
-    root.title("Power Law Checker")
+    root.title("Power Law Verifier")
 
     # Load icon from ui folder (ICO only)
     icon_path = os.path.join(os.path.dirname(__file__), "ui", "icon.ico")

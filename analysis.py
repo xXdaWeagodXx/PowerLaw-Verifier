@@ -33,20 +33,20 @@ def run_analysis(file_path, dist_left='power_law', dist_right='lognormal', xmin=
 
             results_list.append({
                 "Column": col,
-                "alpha": alpha,
-                "xmin": xmin_used,
                 "Left": dist_left,
                 "Right": dist_right,
+                "alpha": alpha,
+                "xmin": xmin_used,
                 "R": R,
                 "p": p
             })
         except Exception as e:
             results_list.append({
                 "Column": col,
-                "alpha": None,
-                "xmin": None,
                 "Left": dist_left,
                 "Right": dist_right,
+                "alpha": None,
+                "xmin": None,
                 "R": None,
                 "p": None,
                 "Error": str(e)

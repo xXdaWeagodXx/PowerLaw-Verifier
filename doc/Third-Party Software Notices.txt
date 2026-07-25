@@ -77,6 +77,15 @@ This project makes use of the following open-source libraries:
 
    Python is distributed under the Python Software Foundation License.
    Full text available at: https://docs.python.org/3/license.html
+
+   This license also covers all Python standard library modules used in this project
+   (e.g., webbrowser, os, sys).
+
+6. PyInstaller
+   License: GPL with special exception
+   Copyright (c) 2005-2026, PyInstaller Development Team
+   Full text: https://pyinstaller.org/license.html
+
 Notes:
 - Each library is distributed under its respective license terms.
 - Copies of the full license texts can be found in the official repositories of these projects.
