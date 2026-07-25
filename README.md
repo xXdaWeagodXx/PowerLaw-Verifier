@@ -4,7 +4,7 @@ A simple power law/lognormal verifying application for data analysis. Personally
 
 
 ## Features
-- GUI interface with **Browse** button for selecting CSV files
+- GUI interface with **Browse** button for selecting .csv file
 - Automatic statistical analysis using the `powerlaw` library
 - Support multiple distribution fitting mode
 - Results exported to Excel(.xlsx)
@@ -28,9 +28,9 @@ pip install pandas numpy powerlaw openpyxl
 ## How to use
 <img width="344" height="226" alt="example" src="https://github.com/user-attachments/assets/8a40943e-26c3-4f72-b4e8-2c32fede4bb9" />
 
-Figure 1. Example format of input CSV file
+Figure 1. Example format of input .csv file
 
-1. Structure the CSV file as accordingly(Fig.1)
+1. Structure the .csv file as accordingly(Fig.1)
 2. Enter Xmin value (leaving it blank will use the defualt Xmin fitting function)
-3. Select and analyse the CSV using Browse
-4. Check your result, the resilt file is generated as .xlsx in the same directory as the selected CSV file
+3. Select and analyse the .csv using Browse
+4. Check your result, the resilt file is generated as .xlsx in the same directory as the selected .csv file
