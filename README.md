@@ -6,6 +6,7 @@ A simple power law/lognormal verifying application for data analysis. Personally
 ## Features
 - GUI interface with **Browse** button for selecting CSV files
 - Automatic statistical analysis using the `powerlaw` library
+- Support multiple distribution fitting mode
 - Results exported to Excel(.xlsx)
 
 
